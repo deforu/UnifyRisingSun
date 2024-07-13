@@ -1,0 +1,4 @@
+repository "UnifyRisingSun@momotech@cloud"
+  path "/"
+    br "/main"
+    co "/main"
